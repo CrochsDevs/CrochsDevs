@@ -1,16 +1,16 @@
-## Hi there 👋
+markdown
+# 👑 **SUPREME OVERLORD OF CODE** 👑
 
-<!--
-**CrochsDevs/CrochsDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ascii
+██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
+██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔══██╗██╔══╝  ██╔══██╗
+██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║  ██║███████╗██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=CODE+ARCHITECT;DIGITAL+SORCERER;REALITY+HACKER;SYSTEM+OVERLORD" alt="Typing SVG" />
+https://api.visitorbadge.io/api/visitors?path=https%253A%252F%252Fgithub.com%252FCrochsDevs&countColor=%2523263759
+https://img.shields.io/github/followers/CrochsDevs?style=social
+https://img.shields.io/twitter/follow/CrochsDevs?style=social
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
