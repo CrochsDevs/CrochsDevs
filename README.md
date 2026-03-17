@@ -216,14 +216,6 @@
 
 <br/>
 
-<h2>📊 GitHub Stats</h2>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lesterrodriguez&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lesterrodriguez&hide_border=true&theme=radical" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesterrodriguez&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="40%" />
@@ -238,10 +230,6 @@
 <br/>
 
 <h2>🐍 Watch the snake eat my contributions!</h2>
-
-<div">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="Snake" />
-</div>
 
 <br/>
 
