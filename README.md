@@ -20,7 +20,7 @@
 </h1>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=20&duration=2000&color=00FF00&center=true&vCenter=true&width=600&lines=A+passionate+Full+Stack+Developer;Cloud+Engineer+from+Philippines;I+love+to+explore+and+learn+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=20&duration=2000&color=00FF00&center=true&vCenter=true&width=600&lines=A+passionate+Full+Stack+Developer;+from+Philippines;I+love+to+explore+and+learn+new+things" alt="Typing SVG" />
 </h3>
 
 <p>
