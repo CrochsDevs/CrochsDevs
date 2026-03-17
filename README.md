@@ -1,95 +1,62 @@
-<!-- G O D L Y  D E V E L O P E R  H E A D E R -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=32&pause=1000&color=CBA135&center=true&vCenter=true&width=600&lines=DEVELOPER+BY+CODE;RIGHTEOUS+BY+GRACE;BUILDING+WITH+PURPOSE" alt="Typing SVG" />
-</p>
+# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
 
-<p align="center">
-  <samp>
-    <strong>「 full-stack architect · kingdom builder · code sower 」</strong>
-  </samp>
-</p>
+![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)
 
-<p align="center">
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-PORTFOLIO-000?style=for-the-badge&logo=google-chrome&logoColor=CBA135" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=CBA135" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-000?style=for-the-badge&logo=gmail&logoColor=CBA135" /></a>
-</p>
+## I am Jayro De Guzman Gabriel 😃
 
-<br />
+A passionate **Full Stack Developer** and **Cloud Engineer** from the Philippines 🇵🇭. I love to explore and learn about new things in the tech world!
 
-<!-- T H E  S C R I P T U R E  S E C T I O N -->
-<p align="center">
-  <samp>
-    <i>“Whatever you do, work heartily, as for the Lord and not for men.”</i><br />
-    <b>— Colossians 3:23</b>
-  </samp>
-</p>
+---
 
-<br />
-<hr />
+### ⚡ Technologies & Skills
 
-<!-- W H O  I  A M -->
-<h3 align="center">👑 THE ARCHITECT BEHIND THE CODE</h3>
+#### 🧩 Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<p align="center">
-  <samp>
-    I write code that scales on earth and echoes in eternity.<br />
-    By day, I architect full‑stack systems. By night, I sharpen my spirit.<br />
-    My stack is modern. My foundation? Unshakable.
-  </samp>
-</p>
+#### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-<br />
+#### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<!-- S K I L L S  W I T H  S O U L -->
-<h3 align="center">⚙️ THE TOOLS I STEWARD</h3>
+#### 🗄️ Database
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-</p>
+#### 🚀 DevOps & Cloud
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<br />
 
-<!-- T H E  S T A T S  (blessed metrics) -->
-<h3 align="center">📈 STEWARDSHIP METRICS</h3>
+#### 🧱 Frameworks
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=graywhite&hide_border=true&title_color=CBA135&icon_color=CBA135&text_color=2E2E2E&bg_color=FAF9F6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=graywhite&hide_border=true&title_color=CBA135&text_color=2E2E2E&bg_color=FAF9F6" width="38%" />
-</p>
 
-<br />
+#### 💻 Software & Tools
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<!-- T H E  C O V E N A N T -->
-<h3 align="center">🕊️ THE COVENANT</h3>
+#### 🧩 Other Skills
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-<p align="center">
-  <samp>
-    <b>I don’t just build apps — I build legacies.</b><br />
-    Every line of code is an offering. Every project is a mission.<br />
-    <br />
-    <i>“Let the favor of the Lord our God be upon us, and establish the work of our hands.”</i><br />
-    — Psalm 90:17
-  </samp>
-</p>
+---
 
-<br />
-<hr />
+#### 🌍 Hello World!!
 
-<!-- F O O T E R  B L E S S I N G -->
-<p align="center">
-  <samp>
-    <b>✝️ walk in purpose · write with power · build for the kingdom</b><br />
-    <sub>© 2025 · [YOUR NAME]</sub>
-  </samp>
-</p>
+🔭 I'm currently leveling up my Full Stack Web Development skills
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=VISITORS+%28BLESSINGS%29&color=CBA135&style=flat" />
-</p>
+🌱 I'm diving deep into Modern Web Frameworks & Cloud Architecture
+
+👯 I'm looking to collaborate on open source web projects
+
+💬 Ask me about web development, cloud computing, or anything tech-related!
