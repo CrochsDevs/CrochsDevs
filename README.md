@@ -239,63 +239,20 @@
 
 <br/>
 
-<h2>Featured Mobile Projects</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>E-Commerce App</h3>
-        <p>
-          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-          <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-        </p>
-        <p>Full-featured e-commerce mobile app with real-time inventory, payment integration, and push notifications.</p>
-      </td>
-      <td width="50%">
-        <h3>Fitness Tracker</h3>
-        <p>
-          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        </p>
-        <p>Workout tracking app with personalized routines, progress monitoring, and social sharing features.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3>Travel Planner</h3>
-        <p>
-          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-          <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        </p>
-        <p>Travel planning app with itinerary builder, location-based recommendations, and offline maps.</p>
-      </td>
-      <td width="50%">
-        <h3>Language Learning</h3>
-        <p>
-          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        </p>
-        <p>Interactive language learning app with gamification, AI-powered pronunciation, and offline support.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
-</div>
-
-<br/>
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesterrodriguez&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="40%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>MERN Stack Developer</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black" alt="Express.js" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black" alt="Node.js" />
+  </p>
 </div>
 
 <br/>
@@ -400,4 +357,4 @@
   ║   Building amazing mobile apps!          ║
   ║      Happy Coding!                       ║
   ║                                          ║
-  ╚══════════════════════════════════════════╝
+  ╚══════════════════════════════════════════╝S
