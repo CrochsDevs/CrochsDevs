@@ -1,5 +1,5 @@
 <div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Hello+There!;I'm+Lester+Rodriguez;Full+Stack+Dev;Cloud+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Hello+There!;I'm+Lester+Rodriguez;Full+Stack+Dev;Cloud+Engineer;Mobile+App+Dev" alt="Typing SVG" />
 </div>
 
 <p>
@@ -20,7 +20,7 @@
 </h1>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=20&duration=2000&color=00FF00&center=true&vCenter=true&width=600&lines=A+passionate+Full+Stack+Developer;+from+Philippines;I+love+to+explore+and+learn+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=20&duration=2000&color=00FF00&center=true&vCenter=true&width=600&lines=A+passionate+Full+Stack+Developer;+from+Philippines;Mobile+App+Developer+%F0%9F%93%B1;I+love+to+explore+and+learn+new+things" alt="Typing SVG" />
 </h3>
 
 <p>
@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=black" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" alt="TypeScript" />
 </p>
 
 <!-- Frontend Development -->
@@ -71,6 +72,19 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black" alt="Bootstrap" />
+</p>
+
+<!-- Mobile App Development -->
+<h3>
+  <img src="https://media.giphy.com/media/1QIXUO39ZuDuy6gSCX/giphy.gif" width="25px" alt="Mobile">
+  📱 Mobile App Development
+</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=black" alt="Expo" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=black" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white&labelColor=black" alt="Xcode" />
 </p>
 
 <!-- Backend Development -->
@@ -95,6 +109,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black" alt="PostgreSQL" />
 </p>
 
 <!-- DevOps & Cloud -->
@@ -106,6 +121,7 @@
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" alt="Docker" />
 </p>
 
 <!-- Frameworks -->
@@ -168,7 +184,7 @@
         <div align="right">
           <h3>🔭 I'm currently leveling up my</h3>
           <h2>
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&color=00FF00&center=true&vCenter=true&width=300&lines=Full+Stack+Web+Development;Modern+Web+Frameworks;Cloud+Architecture" alt="Typing SVG" />
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&color=00FF00&center=true&vCenter=true&width=300&lines=Full+Stack+Web+Development;Modern+Web+Frameworks;Cloud+Architecture;Mobile+App+Development" alt="Typing SVG" />
           </h2>
         </div>
       </td>
@@ -176,6 +192,7 @@
         <div align="left">
           <h3>🌱 I'm diving deep into</h3>
           <ul style="list-style-type: none; padding-left: 0;">
+            <li>📱 React Native & Expo</li>
             <li>✨ Modern Web Frameworks</li>
             <li>☁️ Cloud Architecture</li>
             <li>🚀 DevOps Practices</li>
@@ -188,6 +205,7 @@
         <div align="right">
           <h3>👯 I'm looking to collaborate on</h3>
           <ul style="list-style-type: none; padding-right: 0;">
+            <li>📱 Mobile app projects</li>
             <li>🌟 Open source web projects</li>
             <li>💡 Innovative startups</li>
             <li>🤝 Community initiatives</li>
@@ -198,6 +216,7 @@
         <div align="left">
           <h3>💬 Ask me about</h3>
           <ul style="list-style-type: none; padding-left: 0;">
+            <li>📱 React Native & Mobile Dev</li>
             <li>💻 Web Development</li>
             <li>☁️ Cloud Computing</li>
             <li>⚡ Anything tech-related!</li>
@@ -216,6 +235,97 @@
 
 <br/>
 
+<h2>📊 Mobile App Development Stack</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
+        <br>React Native
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="48" height="48" alt="Expo" />
+        <br>Expo
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" />
+        <br>Android
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" alt="iOS" />
+        <br>iOS
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+        <br>Firebase
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
+</div>
+
+<br/>
+
+<h2>📱 Featured Mobile Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🛍️ E-Commerce App</h3>
+        <p>
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+          <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        </p>
+        <p>Full-featured e-commerce mobile app with real-time inventory, payment integration, and push notifications.</p>
+      </td>
+      <td width="50%">
+        <h3>🏋️ Fitness Tracker</h3>
+        <p>
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        </p>
+        <p>Workout tracking app with personalized routines, progress monitoring, and social sharing features.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>🌍 Travel Planner</h3>
+        <p>
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+          <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        </p>
+        <p>Travel planning app with itinerary builder, location-based recommendations, and offline maps.</p>
+      </td>
+      <td width="50%">
+        <h3>📚 Language Learning</h3>
+        <p>
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        </p>
+        <p>Interactive language learning app with gamification, AI-powered pronunciation, and offline support.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
+</div>
+
+<br/>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesterrodriguez&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="40%" />
@@ -229,6 +339,13 @@
 
 <br/>
 
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lesterrodriguez&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" width="45%" />
+</div>
+
+<br/>
 
 <div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator">
@@ -236,7 +353,7 @@
 
 <br/>
 
-<h2 >📫 Connect With Me</h2>
+<h2>📫 Connect With Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/lesterrodriguez" target="_blank">
@@ -272,14 +389,15 @@
   ### 😺 My GitHub Friend Says...
   
   ```ascii
-  ╔══════════════════════════════════╗
-  ║                                  ║
-  ║   ⭐ Thanks for visiting! ⭐     ║
-  ║                                  ║
-  ║   "Code is like humor. When      ║
-  ║    you have to explain it,       ║
-  ║    it's bad." - Cory House       ║
-  ║                                  ║
-  ║      Happy Coding! 🚀            ║
-  ║                                  ║
-  ╚══════════════════════════════════╝
+  ╔══════════════════════════════════════════╗
+  ║                                          ║
+  ║   ⭐ Thanks for visiting! ⭐             ║
+  ║                                          ║
+  ║   "Code is like humor. When              ║
+  ║    you have to explain it,               ║
+  ║    it's bad." - Cory House               ║
+  ║                                          ║
+  ║   📱 Building amazing mobile apps!      ║
+  ║      Happy Coding! 🚀                    ║
+  ║                                          ║
+  ╚══════════════════════════════════════════╝
